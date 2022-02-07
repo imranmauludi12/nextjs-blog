@@ -7,3 +7,5 @@ Next Js give me the **developer experience** different like most other framework
 the first time experience of deploying web into hosting service. And make it online.
 
 i am satisfied of how next Js give me. and presumably i will keep using next. :)
+
+LOLLLL
